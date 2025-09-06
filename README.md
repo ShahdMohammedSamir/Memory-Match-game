@@ -1,7 +1,4 @@
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a83ae660-dadb-4ee3-bb56-ab9cd4b64e88" />
-
-
 # Match Card Game 🃏🎮
 
 A simple **Memory Match Card Game** built with **Python Django**.  
@@ -24,3 +21,4 @@ Players flip cards to find matching pairs — test your memory and beat the game
 - **Database**: SQLite (default for Django)  
 
 ---
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a83ae660-dadb-4ee3-bb56-ab9cd4b64e88" />
