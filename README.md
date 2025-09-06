@@ -1,5 +1,5 @@
 
-<img width="949" height="985" alt="image" src="https://github.com/user-attachments/assets/a83ae660-dadb-4ee3-bb56-ab9cd4b64e88" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a83ae660-dadb-4ee3-bb56-ab9cd4b64e88" />
 
 
 # Match Card Game 🃏🎮
